@@ -5,5 +5,3 @@
 This repository contains assignments and project, submitted to Compiler Construction course offered in Spring 2021 at PAF-KIET.
 
 > [Course Website 🔗](http://compilersatkiet.22web.org/)
-
-## Project Members 👨 👩
